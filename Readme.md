@@ -9,7 +9,7 @@ Dosen : Mohamad Nurkamal Fauzan, S.T., M.T.
 
 
 ## Preprocessing
-<img src="https://raw.githubusercontent.com/rizaluardi/Kecerdasan-Buatan-D4-Teknik-Informatika-3A/master/Preprocessing.png" width="400">
+<img src="https://raw.githubusercontent.com/rizaluardi/Kecerdasan-Buatan-D4-Teknik-Informatika-3A/master/Preproccess.png" width="400">
 
 Merupakan data yang dikumpulkan dari field mengandung banyak hal yang tidak diinginkan yang mengarah pada analisis yang salah. Misalnya, data mungkin berisi field null, mungkin berisi kolom yang tidak relevan dengan analisis saat ini, dan seterusnya. Dengan demikian, data harus diproses sebelumnya untuk memenuhi persyaratan jenis analisis yang Anda cari. Ini dilakukan dalam modul preprocessing.
 
